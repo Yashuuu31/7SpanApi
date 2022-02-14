@@ -1,0 +1,2 @@
+# Before Run Project in .env file set App Full Url
+# Before Login Or Other Api Run Cmd "php artisan passport:install"
